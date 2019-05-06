@@ -1,5 +1,6 @@
 # A Front-End Developer Technical Test
 To setup and run this project on your local maching follow the instructions below.
+Alternatively you can copy the files from the build folder and run them on a local server.
 
 
 
