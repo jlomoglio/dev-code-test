@@ -1,3 +1,8 @@
+# A Front-End Developer Technical Test
+To setup and run this project on your local maching follow the instructions below.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
